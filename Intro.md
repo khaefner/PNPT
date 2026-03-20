@@ -41,3 +41,9 @@
   - Walks clients through report findings.
   - High level and low level.
   - Give client opportunity to ask questions and address concerns
+ 
+# Ethical Hacking
+
+- Not right for the money....can be lucrative, must be interested in.
+- Must like to study, not entry level, can't be complacent
+- Must be passionate.
