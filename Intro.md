@@ -1,6 +1,43 @@
-# Day in the life
+# Introduction - Day in the life
 
 - Perform Assessment
-  - External Pentest: From outside looking in.  Focus on OSINT
+  - External Pentest: From outside looking in.
+    - Methodology Focus on OSINT, gather data including past breaches.
+    - Mimics bot based scanning
+    - Compliance orgs external performed annualy.
+    - Cheaper than internal, can be a test/
+    - 32-40 hours, 8-16 for report writing.
+  - Internal Pentest
+    - Phihing email, laptop sent and plugged in to the customer netowrk
+    - Methodology heavy on Active Directory (99% use active directory)
+    - 32-40, 8-16 for report.
+  - Web Application Pen Test
+    - Focused on web-based attacks and OWASP guidelines.
+    - Compliance driven
+    - 32-40, with 8-16 throughough checklist.
+  - Wireless Pentest
+    - WPA-PSK, WPA-enterprise, guest testing for network segmentation.
+    - 4-8 hours per SSID, 2-4 for reporting.
+    - Adapter packet injection.
+  - Physical Pentest and Social Engineering Assesment
+    - On-site trying to break into building, clone badges, picking locks.
+    - Usually a goal.
+    - Pure Social Engineering
+      - Phishing, Vishing, smishing
+    - They wear video camera and do a lessons learned.
+    - 16-40 hours, 4-8 report
+  - Additional Pentests
+    - Mobile IoS Android
+    - IoT
+    - Red Team more stealthy, longer than pen-testing, allowed in scope, custom and unique
+    - Purple Team  table top excercises, working with a blue team. Establish baseline.
 - Write report
+  - Delivered within a week after engagement
+  - highlight both non-technical and technical
+    - Executive summary for CEO
+    - Technical summary  
+      - High level and low level Recommendations for remediation.
 - Debrief
+  - Walks clients through report findings.
+  - High level and low level.
+  - Give client opportunity to ask questions and address concerns
