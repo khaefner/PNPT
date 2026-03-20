@@ -47,3 +47,4 @@
 - Not right for the money....can be lucrative, must be interested in.
 - Must like to study, not entry level, can't be complacent
 - Must be passionate.
+- Write at high level and communicate, tecchnical and non-technical.
